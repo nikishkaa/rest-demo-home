@@ -40,6 +40,13 @@
             <version>2.7.7</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.cxf</groupId>
+            <artifactId>cxf-bundle</artifactId>
+            <version>3.0.0-milestone2</version>
+        </dependency>
+
+
     </dependencies>
     <build>
         <finalName>rest-demo-home</finalName>
